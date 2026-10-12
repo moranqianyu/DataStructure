@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.exe
+*.pdb
+*.suo
+*.user
+*.log
+
+# 保留源码
+!*.c
+!*.h

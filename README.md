@@ -3,10 +3,21 @@
 基于C++实现严蔚敏教材顺序表抽象数据类型，拆分为头文件+源文件。
 
 ## 文件结构
-├── SqList.h      // 头文件：结构体定义、函数声明
-├── SqList.cpp    // 顺序表所有操作实现
-├── main.cpp      // 测试入口
-└── .gitignore    //git 忽略 VS 编译垃圾文件
+DataStructure/
+├── Chapter01_绪论/
+│   ├── notes.md        # 本章知识点笔记
+│   ├── example.c       # 课本示例代码
+│   └── exercises.c     # 课后习题代码
+├── Chapter02_线性表/
+├── Chapter03_栈和队列/
+├── Chapter04_串数组广义表/
+├── Chapter05_树和二叉树/
+├── Chapter06_图/
+├── Chapter07_查找/
+├── Chapter08_排序/
+├── common/             # 公共头文件、工具函数
+└── README.md           # 仓库介绍、学习进度记录
+件
 
 ## 支持操作
 - InitList        初始化顺序表

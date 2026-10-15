@@ -10,19 +10,19 @@
 
 ## 📁 仓库目录结构
 DataStructure-Learn/
-├── Chapter01_绪论 /              # 第 1 章 绪论
-│   ├── notes.md                 # 本章知识点笔记
-│   ├── example.c                # 课本示例代码
-│   └── exercises.c              # 课后习题代码
-├── Chapter02_线性表 /            # 第 2 章 线性表
-├── Chapter03_栈和队列 /          # 第 3 章 栈和队列
-├── Chapter04_串数组广义表 /      # 第 4 章 串、数组和广义表
-├── Chapter05_树和二叉树 /        # 第 5 章 树和二叉树
-├── Chapter06_图 /                # 第 6 章 图
-├── Chapter07_查找 /              # 第 7 章 查找
-├── Chapter08_排序 /              # 第 8 章 排序
-├── common/                      # 公共头文件、通用工具函数
-└── README.md                    # 仓库说明文档
+── Chapter01_绪论 /              # 第 1 章 绪论
+   ── notes.md                 # 本章知识点笔记
+   ── example.c                # 课本示例代码
+   ── exercises.c              # 课后习题代码
+── Chapter02_线性表 /            # 第 2 章 线性表
+── Chapter03_栈和队列 /          # 第 3 章 栈和队列
+── Chapter04_串数组广义表 /      # 第 4 章 串、数组和广义表
+── Chapter05_树和二叉树 /        # 第 5 章 树和二叉树
+── Chapter06_图 /                # 第 6 章 图
+── Chapter07_查找 /              # 第 7 章 查找
+── Chapter08_排序 /              # 第 8 章 排序
+── common/                      # 公共头文件、通用工具函数
+── README.md                    # 仓库说明文档
 
 ## 🛠️ 环境说明
 1. IDE：Visual Studio 2022
